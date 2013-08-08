@@ -1,0 +1,140 @@
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SUITE]        =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SUITE]                    Test Suite: Automation Project 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SUITE]        =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]          =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]                      Test Set: Unit Tests on Custom Assert 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]          =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: testBigIntegerAssert_bigNumbersCase 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: testBigIntegerAssert_bigNumbersEqualObjectCase 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: testBigIntegerAssert_bigNumbersLessCase 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: testBigIntegerAssert_bigNumbersMoreCase 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: testBigIntegerAssert_mixNumbersLessCase 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: testBigIntegerAssert_mixNumbersMoreCase 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: testBigIntegerAssert_smallNumbersCase 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: testBigIntegerAssert_smallNumbersFailCase 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ FAIL ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: testBigIntegerAssert_smallNumbersLessCase 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: testBigIntegerAssert_smallNumbersMoreCase 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: testBigIntegerAssert_smallNumbersNegativeCase 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]          =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]                      Test Set: Initialization Tests 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]          =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][BEFORE] [ALL] start 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ... 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][BEFORE] [ALL] end 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][BEFORE] [EACH] start 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ... 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][BEFORE] [EACH] end 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ******************************************************************* 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: isLocalTAFEnvOK 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         [INIT] local env started 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                  OK  
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ******************************************************************* 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][AFTER]  [EACH] start 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ... 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][AFTER]  [EACH] end 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][BEFORE] [EACH] start 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ... 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][BEFORE] [EACH] end 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ******************************************************************* 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: isQAEnvOK 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         [INIT] QA env started 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                  OK  
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ******************************************************************* 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][AFTER]  [EACH] start 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ... 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][AFTER]  [EACH] end 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][AFTER]  [ALL] start 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ... 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][AFTER]  [ALL] end 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]          =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]                                                          Test Set:  [ DONE ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]          =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]          =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]                      Test Set: Abstract TC basic run 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]          =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][BEFORE] [ALL] start 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ... 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][BEFORE] [ALL] end 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][BEFORE] [EACH] start 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ... 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][BEFORE] [EACH] end 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ******************************************************************* 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Description: isAbstractTCworks 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]  
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         Control points: 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]  
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         [POINT] preconditions 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                  OK  
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         [POINT] init 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                  OK  
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         [POINT] setup 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                  OK  
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         [POINT] steps 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                  OK  
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         [POINT] poststeps 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                  OK  
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         [POINT] check 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                  OK  
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         [POINT] teardown 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                  OK  
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ------------------------------------------------------------------- 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]                                                                    [ PASS ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ******************************************************************* 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][AFTER]  [EACH] start 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ... 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][AFTER]  [EACH] end 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][AFTER]  [ALL] start 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]         ... 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST][AFTER]  [ALL] end 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [TEST]_____________________ 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]          =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]                                                          Test Set:  [ DONE ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SET]          =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SUITE]        =================================================================== 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SUITE]                                                      Test Suite:  [ DONE ] 
+[08 August 2013 PM 02:54:52.376 GMT+03:00][LOG][INFO] [SUITE]        =================================================================== 

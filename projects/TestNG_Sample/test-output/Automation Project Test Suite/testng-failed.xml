@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Automation Project Test Suite]">
+  <parameter name="test-suite" value="Automation Project"/>
+  <parameter name="test-set_unit-tests" value="Unit Tests on Custom Assert"/>
+  <parameter name="test-set_abstract-tc" value="Abstract TC basic run"/>
+  <parameter name="test-set_initialization-tests" value="Initialization Tests"/>
+  <test name="AcceptanceTests(failed)">
+    <groups>
+      <run>
+        <include name="All"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="com.organization.automation.project.spice.mix.testng.feature.abstract_tc.tests.AcceptanceTests_Feature_AbstractTC">
+        <methods>
+          <include name="tearDownSet"/>
+          <include name="setUpTest"/>
+          <include name="setUpSet"/>
+          <include name="tearDownTest"/>
+        </methods>
+      </class> <!-- com.organization.automation.project.spice.mix.testng.feature.abstract_tc.tests.AcceptanceTests_Feature_AbstractTC -->
+      <class name="com.organization.automation.project.spice.mix.testng.extension.assertions.CustomAssertUnitTests">
+        <methods>
+          <include name="setUpAllTests"/>
+          <include name="testBigIntegerAssert_smallNumbersFailCase"/>
+        </methods>
+      </class> <!-- com.organization.automation.project.spice.mix.testng.extension.assertions.CustomAssertUnitTests -->
+      <class name="com.organization.automation.project.spice.mix.testng.feature.abstract_tc.tests.InitializationTests_TestSet">
+        <methods>
+          <include name="setUpSet"/>
+          <include name="tearDownTest"/>
+          <include name="tearDownSuite"/>
+          <include name="tearDownSet"/>
+          <include name="setUpTest"/>
+          <include name="setUpSuite"/>
+        </methods>
+      </class> <!-- com.organization.automation.project.spice.mix.testng.feature.abstract_tc.tests.InitializationTests_TestSet -->
+    </classes>
+  </test> <!-- AcceptanceTests(failed) -->
+</suite> <!-- Failed suite [Automation Project Test Suite] -->

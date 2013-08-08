@@ -81,6 +81,7 @@ public class CustomAssertUnitTests {
 		assertEquals(MSG, expected, actual);
 	}
 
+	
 	@Test(expectedExceptions = { AssertionError.class })
 	public void testBigIntegerAssert_smallNumbersFailCase() {
 		BigInteger expected = new BigInteger("1");
@@ -90,6 +91,7 @@ public class CustomAssertUnitTests {
 		
 		assertEquals(MSG, expected, actual);
 	}
+
 	
 	@Test(expectedExceptions = { AssertionError.class })
 	public void testBigIntegerAssert_smallNumbersLessCase() {
